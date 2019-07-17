@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493299229 source:c:\users\alumno-a\desktop\machinglearning\main.cpp
+	<iostream>
+	"Perceptron.h"
+
+1493299521 c:\users\alumno-a\desktop\machinglearning\perceptron.h
+	<iostream>
+	<vector>
+	<utility>
+
+1493336847 source:f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\machinglearning\main.cpp
+	<iostream>
+	"Perceptron.h"
+
+1493337033 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\machinglearning\perceptron.h
+	<iostream>
+	<vector>
+	<utility>
+

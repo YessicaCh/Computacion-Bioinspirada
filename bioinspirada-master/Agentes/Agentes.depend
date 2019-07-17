@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1490323214 source:f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\agentes\main.cpp
+	<iostream>
+	"Grilla.h"
+
+1490325213 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\agentes\grilla.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	"Nido.h"
+	"Agente.h"
+
+1490322790 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\agentes\nido.h
+	<vector>
+	<iostream>
+
+1490589037 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\agentes\agente.h
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<iostream>
+	<math.h>
+	"Nido.h"
+

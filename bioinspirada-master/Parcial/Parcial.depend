@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1493873692 source:f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\parcial\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<bits/stdc++.h>
+	<time.h>
+	<random>
+	"Funciones.h"
+
+1493782499 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\parcial\funciones.h
+	<iostream>
+	<map>
+	<vector>
+	<bits/stdc++.h>
+	<time.h>
+	<fstream>
+	<sstream>
+

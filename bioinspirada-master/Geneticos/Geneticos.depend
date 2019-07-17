@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491483994 source:c:\users\alumno-a\desktop\geneticos\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1492577210 source:f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\geneticos\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<time.h>
+	"funciones.h"
+
+1492577229 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\geneticos\funciones.h
+	<iostream>
+	<bits/stdc++.h>
+

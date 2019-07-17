@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1496213524 source:f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\antcolonyoptimization\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"ACO.h"
+
+1496214368 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\antcolonyoptimization\aco.h
+	"Randoms.h"
+
+1496213357 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\antcolonyoptimization\randoms.h
+	<cstdlib>
+	<cmath>
+	<limits>
+

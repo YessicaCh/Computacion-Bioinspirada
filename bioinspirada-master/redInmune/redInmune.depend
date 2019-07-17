@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1497531237 source:c:\users\alumno-a\desktop\redinmune\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"redesInmunes.h"
+
+1497531165 c:\users\alumno-a\desktop\redinmune\redesinmunes.h
+
+1498103887 source:f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\redinmune\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"redesInmunes.h"
+
+1498103887 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\redinmune\redesinmunes.h
+	"Randoms.h"
+
+1496213357 f:\sebastian\documents\sanpa\8semestre\computacion bioinspirada\practica\bioinspirada\redinmune\randoms.h
+	<cstdlib>
+	<cmath>
+	<limits>
+
